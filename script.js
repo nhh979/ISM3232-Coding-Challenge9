@@ -1,3 +1,6 @@
+//Hoang Nguyen
+//U12840485
+
 function main() {
     // Create a div element
     d3.select('body').append('div')
